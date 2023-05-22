@@ -14,8 +14,7 @@ CP3 de Devops & Cloud Computing, sobre o IoT Hub da Azure
 
 ---
 
-## Link do vídeo: 
-*https://youtu.be/ntDSrdH_JXg*
+### Link do vídeo: *https://youtu.be/ntDSrdH_JXg*
 
 ---
 
